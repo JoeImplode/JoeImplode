@@ -1,3 +1,5 @@
+# Hey, that's up, I'm Joe...
+
 # 💫 About Me:
 🔭 I’m currently working on real-time rendered Vulkan projects featuring compute shaders,<br>shadow mapping, PBR and ray-tracing, expanding my knowledge of engine systems and<br>graphical architectures.<br><br>🌱 I’m currently learning more about structuring modular Vulkan engines, Vulkan synchronisation<br>management, large codebase management with multiple external configurable dependencies in CMake,<br>and integrating better development habits into my day-to-day.<br><br>💬 Ask me about what project I'm currently working on!
 
